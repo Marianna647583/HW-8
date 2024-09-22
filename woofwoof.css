@@ -1,0 +1,90 @@
+#kfkiki { 
+    color: pink;
+}
+#greycol {
+    color: grey;
+}
+.woof__card {
+   color: red;
+}
+#lamine {
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+.apple h3 {
+    background-color: rgb(18, 68, 112);
+}
+.apple h3 {
+    color: #FFFFFF;
+}
+.w { color: blue;}
+
+.lalili li:nth-child(odd) { 
+    color: blueviolet;
+}
+.ronaldo { cursor:not-allowed;color: crimson;}
+
+.lalili li:nth-child(even) {
+    color: rgb(43, 226, 83);
+}
+
+#tear li:first-child {
+    color: rgb(226, 43, 73);
+}
+#tear li:nth-child(3n) {
+    color: rgb(228, 218, 133);
+}
+#tear li:nth-child(4) { color: rgb(231, 12, 121);}
+
+.miau {
+    color: rgb(29, 2, 104);
+}
+
+#uliana {
+    color: aqua;
+}
+.ooo {
+    color: rgb(219, 135, 9);
+}
+.messi {
+    color: rgb(64,92,31);
+}
+* #about {
+    color: rgb(129, 11, 109);
+}
+
+.class {
+    color: rgb(226, 43, 73);
+}
+.class:link {
+    color: blue
+}
+
+.neclass {
+    color: rgb(59,83,29);
+}
+.neclass:visited {
+    color: deeppink;
+}
+.wewo {
+    color: rgb(219, 135, 9);
+}
+.wewo:focus { cursor: pointer; color: darkred;}
+
+.hunter:disabled {
+    color: rgb(214, 102, 130);
+}
+.hunter {
+    color: rgb(98, 218, 152);
+}
+#ohf:checked {
+    color: rgb(171, 226, 43);
+}
+#ohf {
+    color: aquamarine;
+}
+.German {
+    color: darkslateblue;
+}
